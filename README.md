@@ -2,6 +2,11 @@
 
 The aim of the task is to program a basic molecular dynamics (MD) program and present this at an interview.
 
+# Google colab notebook
+
+See:
+https://colab.research.google.com/drive/1vNaAClYGbcYyL-Aielj3nE7nthR0kt1J?usp=sharing
+
 # Molecular Dynamics (MD) Program Task (see pdf of original)
 
 ## Objective
